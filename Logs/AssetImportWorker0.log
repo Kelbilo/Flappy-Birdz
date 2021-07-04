@@ -1,0 +1,579 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.985; Version 2009; 64bit' Language: 'sv' Physical Memory: 16200 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/isa_A/Desktop/Unity2D/Flappy Birdz
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57148
+Successfully changed project path to: C:/Users/isa_A/Desktop/Unity2D/Flappy Birdz
+C:/Users/isa_A/Desktop/Unity2D/Flappy Birdz
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/isa_A/Desktop/Unity2D/Flappy Birdz/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56116
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002104 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 47.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.778 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000841 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 53.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.871 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1859 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 2.427600 ms (FindLiveObjects: 0.320900 ms CreateObjectMapping: 0.282000 ms MarkObjects: 1.669500 ms  DeleteObjects: 0.154300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Bird.cs
+  artifactKey: Guid(5efba31423be0e7499497cc230c75c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Bird.cs using Guid(5efba31423be0e7499497cc230c75c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f86fb9a0882306debfc23744fdf8e5d') in 0.020350 seconds
+  Import took 0.023034 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.2 MB.
+System memory in use after: 50.2 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 4.989400 ms (FindLiveObjects: 0.771200 ms CreateObjectMapping: 0.096200 ms MarkObjects: 3.962600 ms  DeleteObjects: 0.158000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.578800 seconds.
+  path: Assets/Scripts/Bird.cs
+  artifactKey: Guid(5efba31423be0e7499497cc230c75c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Bird.cs using Guid(5efba31423be0e7499497cc230c75c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3007e4098c67920b3676f0ad2c056843') in 0.002108 seconds
+  Import took 0.004760 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000804 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.717 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1843 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.5 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 1.591500 ms (FindLiveObjects: 0.156300 ms CreateObjectMapping: 0.043800 ms MarkObjects: 1.321500 ms  DeleteObjects: 0.069000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.724 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1843 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 1.531400 ms (FindLiveObjects: 0.171600 ms CreateObjectMapping: 0.073700 ms MarkObjects: 1.215800 ms  DeleteObjects: 0.069600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.694 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1843 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 1.624200 ms (FindLiveObjects: 0.141700 ms CreateObjectMapping: 0.055200 ms MarkObjects: 1.356200 ms  DeleteObjects: 0.070200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000797 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1843 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 2.670400 ms (FindLiveObjects: 0.303800 ms CreateObjectMapping: 0.153100 ms MarkObjects: 2.129200 ms  DeleteObjects: 0.083400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000778 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.647 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(589824) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1843 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 1.900300 ms (FindLiveObjects: 0.403600 ms CreateObjectMapping: 0.102900 ms MarkObjects: 1.274300 ms  DeleteObjects: 0.118200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 442.385081 seconds.
+  path: ProjectSettings/ProjectSettings.asset
+  artifactKey: Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/ProjectSettings.asset using Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e7214cba6c9c874ed0d146666f3986') in 0.016456 seconds
+  Import took 0.019647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003155 seconds.
+  path: ProjectSettings/ProjectSettings.asset
+  artifactKey: Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/ProjectSettings.asset using Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e7214cba6c9c874ed0d146666f3986') in 0.003452 seconds
+  Import took 0.006180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.608390 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/dark blue chips. incline/1.png
+  artifactKey: Guid(43436c4374f6f1f4090c4bf0afab818c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/dark blue chips. incline/1.png using Guid(43436c4374f6f1f4090c4bf0afab818c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06957d20fa477c7e16b454f32465c662') in 0.100445 seconds
+  Import took 0.103140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/green chips/1.png
+  artifactKey: Guid(928e0e985565baa4d98d7cf24a8f34b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/green chips/1.png using Guid(928e0e985565baa4d98d7cf24a8f34b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd9bc5f948f9fb104f077a0d94b2772') in 0.019211 seconds
+  Import took 0.021784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/blue chips/1.png
+  artifactKey: Guid(e3ae271fcb1663047b4141c5387257af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/blue chips/1.png using Guid(e3ae271fcb1663047b4141c5387257af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c3b20fe4e12fc84a2e12c08fe14509') in 0.018142 seconds
+  Import took 0.020906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/dark blue chips. incline/1.png
+  artifactKey: Guid(43436c4374f6f1f4090c4bf0afab818c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/dark blue chips. incline/1.png using Guid(43436c4374f6f1f4090c4bf0afab818c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06957d20fa477c7e16b454f32465c662') in 0.021604 seconds
+  Import took 0.024373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/blue chips/1.png
+  artifactKey: Guid(e3ae271fcb1663047b4141c5387257af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/blue chips/1.png using Guid(e3ae271fcb1663047b4141c5387257af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c3b20fe4e12fc84a2e12c08fe14509') in 0.017500 seconds
+  Import took 0.021214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips/1.png
+  artifactKey: Guid(4df55e851ebe67542a7f5cab2ac2b52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips/1.png using Guid(4df55e851ebe67542a7f5cab2ac2b52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beea0e3dd9770a2f2d4f0a2031dba86f') in 0.015731 seconds
+  Import took 0.018478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011012 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips/1.png
+  artifactKey: Guid(4df55e851ebe67542a7f5cab2ac2b52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips/1.png using Guid(4df55e851ebe67542a7f5cab2ac2b52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beea0e3dd9770a2f2d4f0a2031dba86f') in 0.015483 seconds
+  Import took 0.018548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.640096 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips. incline/1.png
+  artifactKey: Guid(c0d97b7a58c30614c960700866204433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips. incline/1.png using Guid(c0d97b7a58c30614c960700866204433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b658d2424632788335a014e43c9b0af') in 0.012211 seconds
+  Import took 0.014908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.149088 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/dark blue chips/1.png
+  artifactKey: Guid(4e6a4684f79a0004e8ac4205079add9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/dark blue chips/1.png using Guid(4e6a4684f79a0004e8ac4205079add9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d79d9650ccd2e2e227ec7cdb06fc1d') in 0.016048 seconds
+  Import took 0.019038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.450486 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/blue chips. incline/1.png
+  artifactKey: Guid(d8a49a288922ffc46a40524f762d41e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/blue chips. incline/1.png using Guid(d8a49a288922ffc46a40524f762d41e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6644625e54ef2c26259ee95c946976ab') in 0.014384 seconds
+  Import took 0.017691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/red chips. incline/1.png
+  artifactKey: Guid(21f1ae9638c3a6a409c18e34499f0f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/red chips. incline/1.png using Guid(21f1ae9638c3a6a409c18e34499f0f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc2cc7bf0adeb786f12901b3c40ecd6') in 0.015933 seconds
+  Import took 0.018683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086513 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/1.png
+  artifactKey: Guid(73fa6ec63e0ae0047b14f5c2dab35344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/1.png using Guid(73fa6ec63e0ae0047b14f5c2dab35344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1ee7e1867745203bebcc52f800977d') in 0.013086 seconds
+  Import took 0.016019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Icon/1.png
+  artifactKey: Guid(fc55b8018fa0f5f4898efb6f1ce46f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Icon/1.png using Guid(fc55b8018fa0f5f4898efb6f1ce46f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91493f52e36e5e4cb91fe77e6b663774') in 0.008420 seconds
+  Import took 0.010894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181716 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/purple chips/1.png
+  artifactKey: Guid(f6a0ec07b4fa2f04caf2f590eb178ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/purple chips/1.png using Guid(f6a0ec07b4fa2f04caf2f590eb178ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf0afafb377011d021e19be272056dd') in 0.012620 seconds
+  Import took 0.015746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/1.png
+  artifactKey: Guid(ce2a0e797f26a0c47b4c28d80103ea03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/1.png using Guid(ce2a0e797f26a0c47b4c28d80103ea03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2f701ef4b610002f60047a3f727b7a') in 0.017938 seconds
+  Import took 0.020545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095685 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/purple chips. incline/1.png
+  artifactKey: Guid(8e60f27378e4f5143b25438355c7c944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/purple chips. incline/1.png using Guid(8e60f27378e4f5143b25438355c7c944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b9a77f061e79a22704aa45866eedb9') in 0.012690 seconds
+  Import took 0.016365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126296 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/red chips/1.png
+  artifactKey: Guid(6eb6a45af78e61d41a2ecdf39ce63ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/red chips/1.png using Guid(6eb6a45af78e61d41a2ecdf39ce63ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b22ba966d0dd179cfe8bbb2a7db851f') in 0.013135 seconds
+  Import took 0.016345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/1.png
+  artifactKey: Guid(36478efbfcb8b744fbc6d3bc8feef296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/1.png using Guid(36478efbfcb8b744fbc6d3bc8feef296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c572279920b99308b75ead35d3fe5bb') in 0.010944 seconds
+  Import took 0.013779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084681 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/green chips. incline/1.png
+  artifactKey: Guid(30637f4b73e1cd44fb848d1341402e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/green chips. incline/1.png using Guid(30637f4b73e1cd44fb848d1341402e38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fcf22f2da486345d57cedc56341572') in 0.011349 seconds
+  Import took 0.014280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/2.png
+  artifactKey: Guid(0f5d4b4459da917479af62504277218e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/2.png using Guid(0f5d4b4459da917479af62504277218e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c312cb323a37fee39986dded711c4086') in 0.011970 seconds
+  Import took 0.014383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.180153 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/2.png
+  artifactKey: Guid(eb5612d6696aa1a45a80804832ac38fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/2.png using Guid(eb5612d6696aa1a45a80804832ac38fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8eb03a5c82788f61ce9fcc0a55cc5a3') in 0.012350 seconds
+  Import took 0.015507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/2.png
+  artifactKey: Guid(a555361df64c97245aa106c3fc61d6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/2.png using Guid(a555361df64c97245aa106c3fc61d6ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '709d1fcd2ed0af20f3149e9900e322da') in 0.009879 seconds
+  Import took 0.012485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084734 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Icon/2.png
+  artifactKey: Guid(a87c7097966d2584eba429aeca88af2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Icon/2.png using Guid(a87c7097966d2584eba429aeca88af2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd406967c8a1d952a3b8881bf91cf3d9c') in 0.008759 seconds
+  Import took 0.011851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.153481 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/3.png
+  artifactKey: Guid(9afc04eb1499fd849b9db8d12f82b989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/3.png using Guid(9afc04eb1499fd849b9db8d12f82b989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe5a8591e75f287b8306a21f96732d0') in 0.012243 seconds
+  Import took 0.015724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002344 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/3.png
+  artifactKey: Guid(9afc04eb1499fd849b9db8d12f82b989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/3.png using Guid(9afc04eb1499fd849b9db8d12f82b989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffe5a8591e75f287b8306a21f96732d0') in 0.009677 seconds
+  Import took 0.012841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/3.png
+  artifactKey: Guid(3b8f85127a622924fb29bdb2f87e3bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/3.png using Guid(3b8f85127a622924fb29bdb2f87e3bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c41b9eab8a3371894fb95690e048d93') in 0.010344 seconds
+  Import took 0.012925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020882 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/3.png
+  artifactKey: Guid(3b8f85127a622924fb29bdb2f87e3bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/3.png using Guid(3b8f85127a622924fb29bdb2f87e3bd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c41b9eab8a3371894fb95690e048d93') in 0.007922 seconds
+  Import took 0.011086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038601 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Icon/3.png
+  artifactKey: Guid(06cd132bf5648b84dafdd80f471dfed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Icon/3.png using Guid(06cd132bf5648b84dafdd80f471dfed7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49202d5cea7da2b8cf429b37b26b612f') in 0.012054 seconds
+  Import took 0.015094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/3.png
+  artifactKey: Guid(0e9c189bc09deaa41998f12be950a7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/3.png using Guid(0e9c189bc09deaa41998f12be950a7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16964d73bd878dea8b2ee34debe0377') in 0.010658 seconds
+  Import took 0.013099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.308637 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/3.1.png
+  artifactKey: Guid(f899e58f8e5dbfb4ca319f79b83ae7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/3.1.png using Guid(f899e58f8e5dbfb4ca319f79b83ae7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d29773624a6690ac0188ac02ecc256') in 0.010595 seconds
+  Import took 0.013866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058922 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/4.png
+  artifactKey: Guid(7a0532d85744a4d4582b6fdc94a75878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/4.png using Guid(7a0532d85744a4d4582b6fdc94a75878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef07ff192e151ce007acbe05bf1c13dc') in 0.009792 seconds
+  Import took 0.012839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095782 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/4.png
+  artifactKey: Guid(8d95af7356822d94a8296b517c8a36cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/4.png using Guid(8d95af7356822d94a8296b517c8a36cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6efa787d9f5d88ac5efaf27a8f698df') in 0.010530 seconds
+  Import took 0.013499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.455688 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/4.png
+  artifactKey: Guid(b5e0770245b214c448edaea4b48fe008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Button/triangle/4.png using Guid(b5e0770245b214c448edaea4b48fe008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5d16d880fe57d6a15e4abc904e7f80') in 0.010536 seconds
+  Import took 0.014480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Icon/4.png
+  artifactKey: Guid(0de86e3e0599d8a49ae1e32951172f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Icon/4.png using Guid(0de86e3e0599d8a49ae1e32951172f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41e8fa3aa39462272e0350f0df66365') in 0.007349 seconds
+  Import took 0.009977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084341 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips. incline/5.png
+  artifactKey: Guid(9e93799fdd3c09440b4c1335b496692d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/yellow chips. incline/5.png using Guid(9e93799fdd3c09440b4c1335b496692d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd077b8866bc57e42859556d04f6b29a0') in 0.011599 seconds
+  Import took 0.014507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Mobile Game GUI Vector Pack/Sprite/Pic/red chips. incline/5.png
+  artifactKey: Guid(94b8ce9b642280f4e9577c2bf992e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mobile Game GUI Vector Pack/Sprite/Pic/red chips. incline/5.png using Guid(94b8ce9b642280f4e9577c2bf992e186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebe7803d5fb90ddda46ccb73304810b') in 0.011542 seconds
+  Import took 0.014141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.116939 seconds.
+  path: ProjectSettings/ProjectSettings.asset
+  artifactKey: Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/ProjectSettings.asset using Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9bc365b486c4445d05f7415cd54946') in 0.009827 seconds
+  Import took 0.012827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.776404 seconds.
+  path: ProjectSettings/ProjectSettings.asset
+  artifactKey: Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/ProjectSettings.asset using Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d47be7a6ba574d9d6a8ba23ab2cf2f') in 0.002959 seconds
+  Import took 0.005734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.395370 seconds.
+  path: ProjectSettings/ProjectSettings.asset
+  artifactKey: Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/ProjectSettings.asset using Guid(00000000000000004000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f360fb592b1eabf1cac5d84ae67f4c05') in 0.002661 seconds
+  Import took 0.005471 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 54.5 MB.
+System memory in use after: 54.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 2.571500 ms (FindLiveObjects: 0.165300 ms CreateObjectMapping: 0.059800 ms MarkObjects: 2.212500 ms  DeleteObjects: 0.133000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
